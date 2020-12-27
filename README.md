@@ -1,3 +1,3 @@
-# angular-wzpjm6
+Angular-Pipes
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-wzpjm6)
